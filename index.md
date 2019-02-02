@@ -3,4 +3,4 @@ layout: home
 ---
 # About github page
 
-This github page is updating my todo list
+This github page is updating my todo list and practice git
